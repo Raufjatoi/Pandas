@@ -1,13 +1,13 @@
 # Pandas Series 
 
-## Code 
-code of each vid
+## code 
+code of each video
 
 ## ss
-Screen shot of code 
+screen shots of code 
 
 ## pdf 
-pdf of each vid
+pdf of each video
 
 ## link 
 coming soon 
