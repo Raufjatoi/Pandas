@@ -10,4 +10,4 @@ screen shots of code
 pdf of each video
 
 ## link 
-coming soon 
+[link](https://www.youtube.com/playlist?list=PLTZ70XpJ2zMuU_dscN1C_LUdF-YCw3OyN)
